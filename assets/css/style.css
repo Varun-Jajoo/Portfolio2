@@ -966,7 +966,6 @@ main {
 
 .project-item-icon-box {
   --scale: 0.8;
-
   background: var(--jet);
   color: var(--orange-yellow-crayola);
   position: absolute;
@@ -982,7 +981,7 @@ main {
 }
 
 .project-item > a:hover .project-item-icon-box {
-  --scale: 1;
+  --scale:1;
   opacity: 1;
 }
 
